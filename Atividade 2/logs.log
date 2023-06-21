@@ -24762,3 +24762,1720 @@ THIS IS A JOBLIB ISSUE. If you can, kindly provide the joblib's team with an
    0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
   warnings.warn(message)
 
+2023-06-18 22:56:02,109:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:56:04,487:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:56:07,740:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:56:10,303:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:56:12,716:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:56:14,903:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:56:16,981:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:56:19,068:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:56:20,778:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:56:22,536:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:56:24,668:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:56:26,612:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:56:28,671:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:56:30,799:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:56:32,977:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:56:34,951:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:56:36,496:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:56:38,121:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:56:40,282:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:56:42,233:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:56:43,662:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:56:45,069:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:56:46,463:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:56:47,857:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:56:49,232:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:56:50,688:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:56:52,084:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:56:53,509:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:56:54,905:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:56:56,308:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:56:57,647:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:56:58,982:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:00,330:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:01,659:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:03,006:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:04,351:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:05,665:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:07,005:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:08,338:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:09,665:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:10,993:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:12,366:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:13,690:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:15,040:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:16,374:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:17,694:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:19,045:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:20,366:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:21,677:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:23,142:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:24,578:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:26,027:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:27,532:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:29,002:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:30,464:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:31,913:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:33,377:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:34,833:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:36,305:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:37,752:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:39,146:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:40,545:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:41,976:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:43,410:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:44,854:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:46,315:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:47,734:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:49,120:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:50,486:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:51,957:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:53,428:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:54,894:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:56,401:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:57,894:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:57:59,368:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:58:00,865:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:58:02,320:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:58:03,756:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_3ba2abe94be04a0db9d586507f3c2fa8\7104-2163399958688-b307189247974cfcadefdf4d1222d44e.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:58:13,642:INFO:best_params: {'actual_estimator__n_estimators': 50, 'actual_estimator__min_samples_split': 10, 'actual_estimator__min_samples_leaf': 3, 'actual_estimator__min_impurity_decrease': 0.002, 'actual_estimator__max_features': 1.0, 'actual_estimator__max_depth': 5, 'actual_estimator__criterion': 'entropy', 'actual_estimator__class_weight': 'balanced_subsample', 'actual_estimator__bootstrap': True}
+2023-06-18 22:58:13,644:INFO:Hyperparameter search completed
+2023-06-18 22:58:13,644:INFO:SubProcess create_model() called ==================================
+2023-06-18 22:58:13,646:INFO:Initializing create_model()
+2023-06-18 22:58:13,646:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001F7B38BB610>, estimator=ExtraTreesClassifier(bootstrap=False, ccp_alpha=0.0, class_weight=None,
+                     criterion='gini', max_depth=None, max_features='auto',
+                     max_leaf_nodes=None, max_samples=None,
+                     min_impurity_decrease=0.0, min_samples_leaf=1,
+                     min_samples_split=2, min_weight_fraction_leaf=0.0,
+                     n_estimators=100, n_jobs=-1, oob_score=False,
+                     random_state=5112, verbose=0, warm_start=False), fold=StratifiedKFold(n_splits=10, random_state=5112, shuffle=True), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=True, probability_threshold=None, experiment_custom_tags=None, verbose=True, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x000001F7BA47E7C0>, model_only=True, return_train_score=False, kwargs={'n_estimators': 50, 'min_samples_split': 10, 'min_samples_leaf': 3, 'min_impurity_decrease': 0.002, 'max_features': 1.0, 'max_depth': 5, 'criterion': 'entropy', 'class_weight': 'balanced_subsample', 'bootstrap': True})
+2023-06-18 22:58:13,647:INFO:Checking exceptions
+2023-06-18 22:58:13,647:INFO:Importing libraries
+2023-06-18 22:58:13,647:INFO:Copying training dataset
+2023-06-18 22:58:13,766:INFO:Defining folds
+2023-06-18 22:58:13,766:INFO:Declaring metric variables
+2023-06-18 22:58:13,771:INFO:Importing untrained model
+2023-06-18 22:58:13,771:INFO:Declaring custom model
+2023-06-18 22:58:13,782:INFO:Extra Trees Classifier Imported successfully
+2023-06-18 22:58:13,800:INFO:Starting cross validation
+2023-06-18 22:58:13,804:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=5112, shuffle=True), n_jobs=-1
+2023-06-18 22:58:13,911:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_cce4a582a5a84fc8bfff9ea853a6ba26\7104-2163399958688-cb84dd7bbee94e8cb2073eb8c90ab243.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:58:13,922:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_cce4a582a5a84fc8bfff9ea853a6ba26\7104-2163399958688-cb84dd7bbee94e8cb2073eb8c90ab243.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:58:13,948:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_cce4a582a5a84fc8bfff9ea853a6ba26\7104-2163399958688-cb84dd7bbee94e8cb2073eb8c90ab243.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:58:13,976:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_cce4a582a5a84fc8bfff9ea853a6ba26\7104-2163399958688-cb84dd7bbee94e8cb2073eb8c90ab243.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:58:16,980:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_cce4a582a5a84fc8bfff9ea853a6ba26\7104-2163399958688-cb84dd7bbee94e8cb2073eb8c90ab243.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:58:17,241:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_cce4a582a5a84fc8bfff9ea853a6ba26\7104-2163399958688-cb84dd7bbee94e8cb2073eb8c90ab243.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:58:17,302:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_cce4a582a5a84fc8bfff9ea853a6ba26\7104-2163399958688-cb84dd7bbee94e8cb2073eb8c90ab243.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:58:17,679:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_cce4a582a5a84fc8bfff9ea853a6ba26\7104-2163399958688-cb84dd7bbee94e8cb2073eb8c90ab243.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:58:20,683:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_cce4a582a5a84fc8bfff9ea853a6ba26\7104-2163399958688-cb84dd7bbee94e8cb2073eb8c90ab243.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:58:20,912:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_cce4a582a5a84fc8bfff9ea853a6ba26\7104-2163399958688-cb84dd7bbee94e8cb2073eb8c90ab243.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:58:29,165:INFO:Calculating mean and std
+2023-06-18 22:58:29,171:INFO:Creating metrics dataframe
+2023-06-18 22:58:29,190:INFO:Finalizing model
+2023-06-18 22:58:40,728:INFO:Uploading results into container
+2023-06-18 22:58:40,730:INFO:Uploading model into container now
+2023-06-18 22:58:40,731:INFO:_master_model_container: 18
+2023-06-18 22:58:40,731:INFO:_display_container: 5
+2023-06-18 22:58:40,734:INFO:ExtraTreesClassifier(bootstrap=True, ccp_alpha=0.0,
+                     class_weight='balanced_subsample', criterion='entropy',
+                     max_depth=5, max_features=1.0, max_leaf_nodes=None,
+                     max_samples=None, min_impurity_decrease=0.002,
+                     min_samples_leaf=3, min_samples_split=10,
+                     min_weight_fraction_leaf=0.0, n_estimators=50, n_jobs=-1,
+                     oob_score=False, random_state=5112, verbose=0,
+                     warm_start=False)
+2023-06-18 22:58:40,734:INFO:create_model() successfully completed......................................
+2023-06-18 22:58:40,932:INFO:SubProcess create_model() end ==================================
+2023-06-18 22:58:40,934:INFO:choose_better activated
+2023-06-18 22:58:40,940:INFO:SubProcess create_model() called ==================================
+2023-06-18 22:58:40,942:INFO:Initializing create_model()
+2023-06-18 22:58:40,942:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001F7B38BB610>, estimator=ExtraTreesClassifier(bootstrap=False, ccp_alpha=0.0, class_weight=None,
+                     criterion='gini', max_depth=None, max_features='auto',
+                     max_leaf_nodes=None, max_samples=None,
+                     min_impurity_decrease=0.0, min_samples_leaf=1,
+                     min_samples_split=2, min_weight_fraction_leaf=0.0,
+                     n_estimators=100, n_jobs=-1, oob_score=False,
+                     random_state=5112, verbose=0, warm_start=False), fold=StratifiedKFold(n_splits=10, random_state=5112, shuffle=True), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=True, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=None, model_only=True, return_train_score=False, kwargs={})
+2023-06-18 22:58:40,942:INFO:Checking exceptions
+2023-06-18 22:58:40,945:INFO:Importing libraries
+2023-06-18 22:58:40,945:INFO:Copying training dataset
+2023-06-18 22:58:41,076:INFO:Defining folds
+2023-06-18 22:58:41,077:INFO:Declaring metric variables
+2023-06-18 22:58:41,077:INFO:Importing untrained model
+2023-06-18 22:58:41,077:INFO:Declaring custom model
+2023-06-18 22:58:41,078:INFO:Extra Trees Classifier Imported successfully
+2023-06-18 22:58:41,079:INFO:Starting cross validation
+2023-06-18 22:58:41,080:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=5112, shuffle=True), n_jobs=-1
+2023-06-18 22:58:41,169:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_2219f486383c42da8b6ec2f04ed6aa38\7104-2163399958688-fd15415f6f8443cca1590038c31db567.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:58:41,181:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_2219f486383c42da8b6ec2f04ed6aa38\7104-2163399958688-fd15415f6f8443cca1590038c31db567.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:58:41,206:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_2219f486383c42da8b6ec2f04ed6aa38\7104-2163399958688-fd15415f6f8443cca1590038c31db567.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:58:41,233:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_2219f486383c42da8b6ec2f04ed6aa38\7104-2163399958688-fd15415f6f8443cca1590038c31db567.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:58:45,971:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_2219f486383c42da8b6ec2f04ed6aa38\7104-2163399958688-fd15415f6f8443cca1590038c31db567.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:58:46,174:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_2219f486383c42da8b6ec2f04ed6aa38\7104-2163399958688-fd15415f6f8443cca1590038c31db567.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:58:46,266:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_2219f486383c42da8b6ec2f04ed6aa38\7104-2163399958688-fd15415f6f8443cca1590038c31db567.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:58:46,583:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_2219f486383c42da8b6ec2f04ed6aa38\7104-2163399958688-fd15415f6f8443cca1590038c31db567.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:58:51,635:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_2219f486383c42da8b6ec2f04ed6aa38\7104-2163399958688-fd15415f6f8443cca1590038c31db567.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:58:51,777:WARNING:C:\Users\Gracinha\anaconda3\lib\site-packages\joblib\numpy_pickle.py:230: UserWarning: The memmapped array [[-0.34003967 -0.54773647 -0.14649901 ... -0.33503464 -0.34116918
+  -0.6624591 ]
+ [ 0.469957    0.48158956  0.047779   ...  0.40321264  0.42494398
+  -0.21186407]
+ [ 0.7028278   0.93773556  0.9329434  ...  0.68696684  0.21827039
+   1.1372647 ]
+ ...
+ [ 0.19296788 -0.17031138  0.6656134  ... -0.24637471  0.2718579
+   0.3580429 ]
+ [ 0.1316792   0.1614687   0.00191964 ...  0.11284348 -0.12134434
+   0.02639985]
+ [-0.12831262  0.35139906 -0.00572887 ... -0.07496429  0.05736499
+   0.12929204]] loaded from the file C:\Users\Gracinha\AppData\Local\Temp\joblib_memmapping_folder_7104_5df182e186c84e059eb1bd6f0066d916_2219f486383c42da8b6ec2f04ed6aa38\7104-2163399958688-fd15415f6f8443cca1590038c31db567.pkl is not not bytes aligned. This may cause segmentation faults if this memmapped array is used in some libraries like BLAS or PyTorch. To get rid of this warning, regenerate your pickle file with joblib >= 1.2.0. See https://github.com/joblib/joblib/issues/563 for more details
+  warnings.warn(message)
+
+2023-06-18 22:59:02,611:INFO:Calculating mean and std
+2023-06-18 22:59:02,612:INFO:Creating metrics dataframe
+2023-06-18 22:59:02,614:INFO:Finalizing model
+2023-06-18 22:59:04,704:INFO:Uploading results into container
+2023-06-18 22:59:04,705:INFO:Uploading model into container now
+2023-06-18 22:59:04,706:INFO:_master_model_container: 19
+2023-06-18 22:59:04,706:INFO:_display_container: 6
+2023-06-18 22:59:04,706:INFO:ExtraTreesClassifier(bootstrap=False, ccp_alpha=0.0, class_weight=None,
+                     criterion='gini', max_depth=None, max_features='auto',
+                     max_leaf_nodes=None, max_samples=None,
+                     min_impurity_decrease=0.0, min_samples_leaf=1,
+                     min_samples_split=2, min_weight_fraction_leaf=0.0,
+                     n_estimators=100, n_jobs=-1, oob_score=False,
+                     random_state=5112, verbose=0, warm_start=False)
+2023-06-18 22:59:04,706:INFO:create_model() successfully completed......................................
+2023-06-18 22:59:04,948:INFO:SubProcess create_model() end ==================================
+2023-06-18 22:59:04,950:INFO:ExtraTreesClassifier(bootstrap=False, ccp_alpha=0.0, class_weight=None,
+                     criterion='gini', max_depth=None, max_features='auto',
+                     max_leaf_nodes=None, max_samples=None,
+                     min_impurity_decrease=0.0, min_samples_leaf=1,
+                     min_samples_split=2, min_weight_fraction_leaf=0.0,
+                     n_estimators=100, n_jobs=-1, oob_score=False,
+                     random_state=5112, verbose=0, warm_start=False) result for AUC is 0.7343
+2023-06-18 22:59:04,951:INFO:ExtraTreesClassifier(bootstrap=True, ccp_alpha=0.0,
+                     class_weight='balanced_subsample', criterion='entropy',
+                     max_depth=5, max_features=1.0, max_leaf_nodes=None,
+                     max_samples=None, min_impurity_decrease=0.002,
+                     min_samples_leaf=3, min_samples_split=10,
+                     min_weight_fraction_leaf=0.0, n_estimators=50, n_jobs=-1,
+                     oob_score=False, random_state=5112, verbose=0,
+                     warm_start=False) result for AUC is 0.7918
+2023-06-18 22:59:04,951:INFO:ExtraTreesClassifier(bootstrap=True, ccp_alpha=0.0,
+                     class_weight='balanced_subsample', criterion='entropy',
+                     max_depth=5, max_features=1.0, max_leaf_nodes=None,
+                     max_samples=None, min_impurity_decrease=0.002,
+                     min_samples_leaf=3, min_samples_split=10,
+                     min_weight_fraction_leaf=0.0, n_estimators=50, n_jobs=-1,
+                     oob_score=False, random_state=5112, verbose=0,
+                     warm_start=False) is best model
+2023-06-18 22:59:04,951:INFO:choose_better completed
+2023-06-18 22:59:04,967:INFO:_master_model_container: 19
+2023-06-18 22:59:04,968:INFO:_display_container: 5
+2023-06-18 22:59:04,970:INFO:ExtraTreesClassifier(bootstrap=True, ccp_alpha=0.0,
+                     class_weight='balanced_subsample', criterion='entropy',
+                     max_depth=5, max_features=1.0, max_leaf_nodes=None,
+                     max_samples=None, min_impurity_decrease=0.002,
+                     min_samples_leaf=3, min_samples_split=10,
+                     min_weight_fraction_leaf=0.0, n_estimators=50, n_jobs=-1,
+                     oob_score=False, random_state=5112, verbose=0,
+                     warm_start=False)
+2023-06-18 22:59:04,970:INFO:tune_model() successfully completed......................................
+2023-06-18 23:00:42,916:INFO:Initializing plot_model()
+2023-06-18 23:00:42,916:INFO:plot_model(plot=confusion_matrix, fold=None, use_train_data=False, verbose=True, display=None, display_format=None, estimator=ExtraTreesClassifier(bootstrap=True, ccp_alpha=0.0,
+                     class_weight='balanced_subsample', criterion='entropy',
+                     max_depth=5, max_features=1.0, max_leaf_nodes=None,
+                     max_samples=None, min_impurity_decrease=0.002,
+                     min_samples_leaf=3, min_samples_split=10,
+                     min_weight_fraction_leaf=0.0, n_estimators=50, n_jobs=-1,
+                     oob_score=False, random_state=5112, verbose=0,
+                     warm_start=False), feature_name=None, fit_kwargs=None, groups=None, label=False, plot_kwargs=None, save=False, scale=1, self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001F7B38BB610>, system=True)
+2023-06-18 23:00:42,916:INFO:Checking exceptions
+2023-06-18 23:00:43,017:INFO:Preloading libraries
+2023-06-18 23:00:43,036:INFO:Copying training dataset
+2023-06-18 23:00:43,036:INFO:Plot type: confusion_matrix
+2023-06-18 23:00:43,540:INFO:Fitting Model
+2023-06-18 23:00:43,543:INFO:Scoring test/hold-out set
+2023-06-18 23:00:44,003:INFO:Visual Rendered Successfully
+2023-06-18 23:00:44,192:INFO:plot_model() successfully completed......................................
+2023-06-18 23:00:56,928:INFO:Initializing plot_model()
+2023-06-18 23:00:56,929:INFO:plot_model(plot=feature, fold=None, use_train_data=False, verbose=True, display=None, display_format=None, estimator=ExtraTreesClassifier(bootstrap=True, ccp_alpha=0.0,
+                     class_weight='balanced_subsample', criterion='entropy',
+                     max_depth=5, max_features=1.0, max_leaf_nodes=None,
+                     max_samples=None, min_impurity_decrease=0.002,
+                     min_samples_leaf=3, min_samples_split=10,
+                     min_weight_fraction_leaf=0.0, n_estimators=50, n_jobs=-1,
+                     oob_score=False, random_state=5112, verbose=0,
+                     warm_start=False), feature_name=None, fit_kwargs=None, groups=None, label=False, plot_kwargs=None, save=False, scale=1, self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001F7B38BB610>, system=True)
+2023-06-18 23:00:56,929:INFO:Checking exceptions
+2023-06-18 23:00:57,000:INFO:Preloading libraries
+2023-06-18 23:00:57,011:INFO:Copying training dataset
+2023-06-18 23:00:57,011:INFO:Plot type: feature
+2023-06-18 23:00:57,012:WARNING:No coef_ found. Trying feature_importances_
+2023-06-18 23:00:57,429:INFO:Visual Rendered Successfully
+2023-06-18 23:00:57,597:INFO:plot_model() successfully completed......................................
+2023-06-18 23:03:49,599:INFO:Initializing plot_model()
+2023-06-18 23:03:49,599:INFO:plot_model(plot=confusion_matrix, fold=None, use_train_data=False, verbose=True, display=None, display_format=None, estimator=ExtraTreesClassifier(bootstrap=True, ccp_alpha=0.0,
+                     class_weight='balanced_subsample', criterion='entropy',
+                     max_depth=5, max_features=1.0, max_leaf_nodes=None,
+                     max_samples=None, min_impurity_decrease=0.002,
+                     min_samples_leaf=3, min_samples_split=10,
+                     min_weight_fraction_leaf=0.0, n_estimators=50, n_jobs=-1,
+                     oob_score=False, random_state=5112, verbose=0,
+                     warm_start=False), feature_name=None, fit_kwargs=None, groups=None, label=False, plot_kwargs=None, save=False, scale=1, self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001F7B38BB610>, system=True)
+2023-06-18 23:03:49,600:INFO:Checking exceptions
+2023-06-18 23:03:49,667:INFO:Preloading libraries
+2023-06-18 23:03:49,679:INFO:Copying training dataset
+2023-06-18 23:03:49,679:INFO:Plot type: confusion_matrix
+2023-06-18 23:03:50,139:INFO:Fitting Model
+2023-06-18 23:03:50,142:INFO:Scoring test/hold-out set
+2023-06-18 23:03:50,503:INFO:Visual Rendered Successfully
+2023-06-18 23:03:50,687:INFO:plot_model() successfully completed......................................
+2023-06-18 23:04:48,095:INFO:Initializing predict_model()
+2023-06-18 23:04:48,095:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001F7B38BB610>, estimator=ExtraTreesClassifier(bootstrap=True, ccp_alpha=0.0,
+                     class_weight='balanced_subsample', criterion='entropy',
+                     max_depth=5, max_features=1.0, max_leaf_nodes=None,
+                     max_samples=None, min_impurity_decrease=0.002,
+                     min_samples_leaf=3, min_samples_split=10,
+                     min_weight_fraction_leaf=0.0, n_estimators=50, n_jobs=-1,
+                     oob_score=False, random_state=5112, verbose=0,
+                     warm_start=False), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001F7B6F1CB80>)
+2023-06-18 23:04:48,095:INFO:Checking exceptions
+2023-06-18 23:04:48,095:INFO:Preloading libraries
+2023-06-18 23:04:48,099:INFO:Set up data.
+2023-06-18 23:04:48,182:INFO:Set up index.
+2023-06-18 23:05:05,334:INFO:Initializing save_model()
+2023-06-18 23:05:05,335:INFO:save_model(model=Pipeline(memory=FastMemory(location=C:\Users\Gracinha\AppData\Local\Temp\joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(exclude=None,
+                                    include=['id', 'V1', 'V2', 'V3', 'V4', 'V5',
+                                             'V6', 'V7', 'V8', 'V9', 'V10',
+                                             'V11', 'V12', 'V13', 'V14', 'V15',
+                                             'V16', 'V17', 'V18', 'V19', 'V20',
+                                             'V21'],
+                                    transformer=SimpleImputer(add_indicator=False,
+                                                              copy=True,
+                                                              fill_value=None,
+                                                              missi...
+                 ExtraTreesClassifier(bootstrap=False, ccp_alpha=0.0,
+                                      class_weight='balanced', criterion='gini',
+                                      max_depth=10, max_features='log2',
+                                      max_leaf_nodes=None, max_samples=None,
+                                      min_impurity_decrease=0.0002,
+                                      min_samples_leaf=2, min_samples_split=7,
+                                      min_weight_fraction_leaf=0.0,
+                                      n_estimators=40, n_jobs=-1,
+                                      oob_score=False, random_state=1380,
+                                      verbose=0, warm_start=False))],
+         verbose=False), model_name=et_tuned, prep_pipe_=Pipeline(memory=FastMemory(location=C:\Users\Gracinha\AppData\Local\Temp\joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(exclude=None,
+                                    include=['V1', 'V2', 'V3', 'V4', 'V5', 'V6',
+                                             'V7', 'V8', 'V9', 'V10', 'V11',
+                                             'V12', 'V13', 'V14', 'V15', 'V16',
+                                             'V17', 'V18', 'V19', 'V20',
+                                             'V21'],
+                                    transformer=SimpleImputer(add_indicator=False,
+                                                              copy=True,
+                                                              fill_value=None,
+                                                              missing_va...
+                                                              missing_values=nan,
+                                                              strategy='most_frequent',
+                                                              verbose=0))),
+                ('remove_multicollinearity',
+                 TransformerWrapper(exclude=[], include=None,
+                                    transformer=RemoveMulticollinearity(threshold=0.9))),
+                ('balance',
+                 TransformerWrapper(exclude=None, include=None,
+                                    transformer=FixImbalancer(estimator=SMOTE(k_neighbors=5,
+                                                                              n_jobs=None,
+                                                                              random_state=None,
+                                                                              sampling_strategy='auto'))))],
+         verbose=False), verbose=True, use_case=MLUsecase.CLASSIFICATION, kwargs={})
+2023-06-18 23:05:05,335:INFO:Adding model into prep_pipe
+2023-06-18 23:05:05,335:WARNING:Only Model saved as it was a pipeline.
+2023-06-18 23:05:05,384:INFO:et_tuned.pkl saved in current working directory
+2023-06-18 23:05:05,396:INFO:Pipeline(memory=FastMemory(location=C:\Users\Gracinha\AppData\Local\Temp\joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(exclude=None,
+                                    include=['id', 'V1', 'V2', 'V3', 'V4', 'V5',
+                                             'V6', 'V7', 'V8', 'V9', 'V10',
+                                             'V11', 'V12', 'V13', 'V14', 'V15',
+                                             'V16', 'V17', 'V18', 'V19', 'V20',
+                                             'V21'],
+                                    transformer=SimpleImputer(add_indicator=False,
+                                                              copy=True,
+                                                              fill_value=None,
+                                                              missi...
+                 ExtraTreesClassifier(bootstrap=False, ccp_alpha=0.0,
+                                      class_weight='balanced', criterion='gini',
+                                      max_depth=10, max_features='log2',
+                                      max_leaf_nodes=None, max_samples=None,
+                                      min_impurity_decrease=0.0002,
+                                      min_samples_leaf=2, min_samples_split=7,
+                                      min_weight_fraction_leaf=0.0,
+                                      n_estimators=40, n_jobs=-1,
+                                      oob_score=False, random_state=1380,
+                                      verbose=0, warm_start=False))],
+         verbose=False)
+2023-06-18 23:05:05,397:INFO:save_model() successfully completed......................................
